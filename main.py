@@ -17,7 +17,7 @@ screen = pygame.display.set_mode((800, 600))
 
 # Title and Icon
 # changing the title
-pygame.display.set_caption("Space Invaders")
+pygame.display.set_caption("Space Wars")
 # changing the logo
 icon = pygame.image.load('spaceship.png')
 # https://www.flaticon.com/   32px
