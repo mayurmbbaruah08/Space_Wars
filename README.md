@@ -1,1 +1,1 @@
-# space_wars
+Space Wars Game It is a two-dimensional fixed shooter game in which the player controls a ship with lasers by moving it horizontally across the bottom of the screen and firing at descending aliens.I used a set of Python module designed for writing games called Pygame to assist in the development.
